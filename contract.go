@@ -94,7 +94,7 @@ type Address struct {
 	Locality   string `json:"locality"`
 }
 
-// Address represents the charge payment method boleto.
+// Boleto represents the charge payment method boleto.
 type Boleto struct {
 	ID               string            `json:"id"`
 	Barcode          string            `json:"barcode"`
