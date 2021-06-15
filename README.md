@@ -1,5 +1,6 @@
 # Golang PagSeguro v4 client
 
+[![Build Status](https://github.com/deepakvashist/go-pagseguro/workflows/release/badge.svg)](https://github.com/deepakvashist/go-pagseguro/actions)
 [![Go Report Card](https://goreportcard.com/badge/github.com/deepakvashist/go-pagseguro)](https://goreportcard.com/report/github.com/deepakvashist/go-pagseguro)
 [![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/deepakvashist/go-pagseguro)
 
