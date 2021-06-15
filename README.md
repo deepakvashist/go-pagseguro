@@ -1,5 +1,8 @@
 # Golang PagSeguro v4 client
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/deepakvashist/go-pagseguro)](https://goreportcard.com/report/github.com/deepakvashist/go-pagseguro)
+[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/deepakvashist/go-pagseguro)
+
 PagSeguro v4 API golang client: [docs](https://dev.pagseguro.uol.com.br/v4.0/reference/nova-plataforma)
 
 PagSeguro's dashboards:
