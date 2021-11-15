@@ -1,4 +1,4 @@
-package gopagseguro
+package pags
 
 import (
 	"fmt"

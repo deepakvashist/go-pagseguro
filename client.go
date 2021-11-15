@@ -1,4 +1,4 @@
-package gopagseguro
+package pags
 
 import (
 	"encoding/json"
@@ -69,12 +69,8 @@ func NewClient(baseURL, token string, retryCount int, timeout, retryWait, retryM
 	httpClient := resty.New().
 		SetHostURL(baseURL).
 		SetHeader("Content-Type", "application/json").
-		SetHeader("x-api-version", "1.0").
-		SetHeader("Authorization", token).
-		SetTimeout(timeout).
-		SetRetryCount(retryCount).
-		SetRetryWaitTime(retryWait).
-		SetRetryMaxWaitTime(retryMaxWait)
+		SetHeader("x-api-version", "4.0").
+		SetHeader("Authorization", token)
 
 	return &Client{
 		httpClient: httpClient,

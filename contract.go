@@ -1,4 +1,4 @@
-package gopagseguro
+package pags
 
 // Charge represents the PagSeguro v4 API charge payload.
 type Charge struct {
