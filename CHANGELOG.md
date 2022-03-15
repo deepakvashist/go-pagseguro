@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/deepakvashist/go-pagseguro/compare/v1.0.0...v1.1.0) (2022-03-15)
+
+
+### Features
+
+* upgrade go version to 1.17 ([5d5cb66](https://www.github.com/deepakvashist/go-pagseguro/commit/5d5cb660927b2126a611eaa838d9fbde329e5855))
+
 ## 1.0.0 (2021-06-15)
 
 
